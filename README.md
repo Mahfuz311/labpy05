@@ -12,12 +12,19 @@ Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan
 
 program sederhana yang akan menampilkan daftar nilai mahasiswa menggunakan `Dictionary`, Program ini mencakup menu pilihan untuk menambah data, mengubah data, menghapus data, menampilkan data, dan mencari data.
 
+# Flowchart
+
+<img src="https://github.com/Mahfuz311/labpy05/blob/main/labpy05/flowwchart.png">
+
+
 # Tentang Program
 Program ini memungkinkan pengguna untuk mengelola data nilai mahasiswa dengan cara memasukkan, mengubah, menghapus, mencari, dan menampilkan informasi terkait nilai Tugas, UTS, UAS, dan Nilai Akhir. Data disimpan dalam bentuk dictionary yang menggunakan NIM mahasiswa sebagai kunci, dan setiap entri berisi nama mahasiswa, nilai-nilai akademik, serta perhitungan Nilai Akhir.
 
 Kode Program
 
-![code nilai] (https://github-production-user-asset-6210df.s3.amazonaws.com/185802900/389189262-09f2b53f-c170-4971-9312-4a69d25f8091.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241125T090431Z&X-Amz-Expires=300&X-Amz-Signature=dacc98d0c05031f8972ea889a97eff1e3f0809f8e75fb326d327f166304ab85b&X-Amz-SignedHeaders=host)
+![code nilai]
+
+<img src="https://github.com/Mahfuz311/labpy05/blob/main/labpy05/Code%20.png">
 
 
 ### **Penjelasan Program**
@@ -30,6 +37,11 @@ Kode Program
   \[
   \text{Nilai Akhir} = (Tugas \times 0.3) + (UTS \times 0.35) + (UAS \times 0.35)
   \]
+
+# Hasil Program
+
+<img src="https://github.com/Mahfuz311/labpy05/blob/main/labpy05/Hasil%20Program.png">
+
 
 **Fungsi-fungsi dalam Program:**
 1. **`tambah_data()`**: Menambahkan data mahasiswa baru, termasuk nilai tugas, UTS, UAS, dan menghitung nilai akhir.

@@ -27,7 +27,7 @@ Kode Program
 <img src="https://github.com/Mahfuz311/labpy05/blob/main/labpy05/Code%20.png">
 
 
-### **Penjelasan Program**
+# **Penjelasan Program**
 
 **Struktur Program:**
 - Program menggunakan `Dictionary` untuk menyimpan data mahasiswa, di mana key-nya adalah nama mahasiswa dan value-nya adalah sebuah dictionary yang berisi nilai tugas, UTS, UAS, dan nilai akhir.
@@ -43,14 +43,14 @@ Kode Program
 <img src="https://github.com/Mahfuz311/labpy05/blob/main/labpy05/Hasil%20Program.png">
 
 
-**Fungsi-fungsi dalam Program:**
+# **Fungsi-fungsi dalam Program:**
 1. **`tambah_data()`**: Menambahkan data mahasiswa baru, termasuk nilai tugas, UTS, UAS, dan menghitung nilai akhir.
 2. **`ubah_data()`**: Memungkinkan pengguna untuk memperbarui nilai mahasiswa berdasarkan nama.
 3. **`hapus_data()`**: Menghapus data mahasiswa berdasarkan nama.
 4. **`tampilkan_data()`**: Menampilkan seluruh data mahasiswa yang ada.
 5. **`cari_data()`**: Mencari data mahasiswa berdasarkan nama.
 
-### 4. **README.md**
+#  **README.md**
 
 ```markdown
 # Program Daftar Nilai Mahasiswa
